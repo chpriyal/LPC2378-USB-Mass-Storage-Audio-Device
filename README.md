@@ -3,7 +3,7 @@ This project uses a LPC2378 to mount an SD Card as a USB Mass Storage to a host 
 
 
 Developed by
-Devam Ajit Awasare (2016A3PS0657G)
-Moosa Mahsoom (2016A8PS0310G)
-Pragnesh Patel Rasiklal (2016A3PS0183G)
-Priyal Chittrapathi (2016A8PS0378G)
+- Devam Ajit Awasare (2016A3PS0657G)
+- Moosa Mahsoom (2016A8PS0310G)
+- Pragnesh Patel Rasiklal (2016A3PS0183G)
+- Priyal Chittrapathi (2016A8PS0378G)
