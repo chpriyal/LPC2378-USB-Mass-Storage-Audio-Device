@@ -7,7 +7,7 @@ Developed by
 - Devam Ajit Awasare (2016A3PS0657G)
 - Moosa Mahsoom (2016A8PS0310G)
 - Pragnesh Patel Rasiklal (2016A3PS0183G)
-- Priyal Chittrapathi (2016A8PS0378G)
+- Priyal Chhatrapati (2016A8PS0378G)
 
 The method described below is for ULINK USB-JTAG Adapter. 
 
