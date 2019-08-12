@@ -13,7 +13,7 @@ The method described below is for ULINK USB-JTAG Adapter.
 
 ## Flashing the Code
 1. Download the repository and extract it to a location of your choice. 
-2. Open Keil uvision5 IDE. Ensure you have the Profesional version of the IDE in order to have access to the RL-ARM libraries. 
+2. Open Keil uvision5 IDE. Ensure you have the Professional version of the IDE in order to have access to the RL-ARM libraries. 
 3. Open the project via the menu **Project - Open Project** and select the file **Memory.UVPROJ** from the folder. 
     -The project has been pre-configured for the MCB2300 LPC2378 Board and ULINK JTAG Adapter. 
 4. Compile and link the application via the toolbar button or using the menu **Project - Build Target.** µVision starts compiling and linking the source files, and displays progress messages in the window **Build Output.**
